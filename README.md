@@ -2,7 +2,7 @@
 
 This repository contains a *calculator* app.
 It con de the following:
-- [] Add
+- [x] Add
 - [] Substract
 - [] Divide
 - [] Multiply
