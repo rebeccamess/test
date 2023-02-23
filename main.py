@@ -8,3 +8,4 @@ def main():
 if __name__ == "__main__":
     print(main())
 
+print(2*5)
